@@ -2,7 +2,7 @@
 <img src="https://w0.peakpx.com/wallpaper/349/544/HD-wallpaper-anime-boy-japan.jpg" alt="nz" width="350"/>
 </p>
 
-## Gojo-Satoru
+## RXE MULTI DIVICE BOT SRI LANKA
 
 > <a href="https://youtu.be/PSUXT4Js3gI"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
