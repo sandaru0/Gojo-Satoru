@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://w0.peakpx.com/wallpaper/349/544/HD-wallpaper-anime-boy-japan.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/57e0679dc28177770f449.jpg" alt="nz" width="350"/>
 </p>
 
 ## RXE MULTI DIVICE BOT SRI LANKA
@@ -48,23 +48,7 @@ Add FFmpeg to PATH environment variable
 
 
 
-<!-- Installation via Termux -->
-<b><details><summary>Installation on Termux</summary></b>
-```bash
-> apt update
-> apt upgrade
-> pkg update && pkg upgrade
-> pkg install bash
-> pkg install libwebp
-> pkg install git -y
-> pkg install nodejs -y 
-> pkg install ffmpeg -y 
-> pkg install wget
-> pkg install imagemagick -y
-> git clone https://github.com/nexusNw/Gojo-Satoru
-> cd RXE
-> npm install
-```
+
 </details>
 
 <!-- Edit -->
